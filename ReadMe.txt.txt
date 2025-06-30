@@ -16,6 +16,10 @@ ___________________________________________________
 - About Me Section: Includes a personal description and an image on the left side.
 - Contact Form: Collects name, email, and message with validation.
 - Social Media Icons: Links to Instagram, Facebook, and Twitter (in the Contact section).
+Full-Screen Hero Section:
+  - Background image with dark overlay
+  - Large, center-aligned welcome text
+  - Text shadow added for better contrast and readability
 
 ______________________________________________________
 
@@ -26,5 +30,7 @@ ______________________________________________________
 - Back Navigation Button: Added a return arrow for user-friendly navigation when an image is expanded.
 - Minimalist Styling: Chose a soft, neutral theme to allow artworks to stand out more, aligning with personal branding.
 
-
+ Hero Section Enhancement**:
+  - Increased heading and subtitle size to visually complement the background.
+  - Applied a `min-height: 100vh` layout to fill the screen and feel immersive.
 
